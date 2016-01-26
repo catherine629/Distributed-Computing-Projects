@@ -4,7 +4,6 @@
  * multiplication, to determine relatively prime, modulo, modular inverse and
  * power.
  */
-package BigIntegerCalculation;
 
 import java.io.IOException;
 import java.io.PrintWriter;
