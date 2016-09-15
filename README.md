@@ -1,3 +1,8 @@
-# Distributed-System-Coding
-Project coding from distributed systems course in CMU
-Author: Shuhui Yang
+# Distributed-Computing-Projects
+
+Projects based on distributed computing and system.
+
+## Directory
+
+- UDP City Lookup (server & client)
+- 
