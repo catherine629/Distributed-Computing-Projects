@@ -34,9 +34,9 @@ public class SearchEventModel {
         List<Event> events = new ArrayList<>();
         Event e = null;
         
-        APIConfiguration.setApiKey("Sfp6LdC5bsNB5zP5");
-        APIConfiguration.setEvdbUser("shuhuiy");
-        APIConfiguration.setEvdbPassword("catherine100529");
+        APIConfiguration.setApiKey("****");
+        APIConfiguration.setEvdbUser("****");
+        APIConfiguration.setEvdbPassword("****");
         
         
         esr.setKeywords(keyword);
